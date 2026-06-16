@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Herobrine",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "ToucanLuca-c5Rl.aternos.me:40505",
+    "port": 40505,
     "version": "",
     "try-creative": false
   },
