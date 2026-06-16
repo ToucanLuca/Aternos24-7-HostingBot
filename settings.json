@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ToucanLuca-c5Rl.aternos.me:40505",
+    "ip": "ToucanLuca-c5Rl.aternos.me",
     "port": 40505,
     "version": "",
     "try-creative": false
